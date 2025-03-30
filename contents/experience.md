@@ -1,21 +1,20 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **Undergraduate in Artificial Intelligence**  
+**Sep 2021 – Jun 2025  | Anhui University**  
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+Specialized in computer vision adversarial attacks and defenses, investigating security vulnerabilities of deep learning models against adversarial examples and robustness enhancement solutions. Focused on innovating adversarial example generation algorithms and optimizing defense mechanisms to improve AI system security in complex environments.
 
 #### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+- Proposed a novel generative model-based adversarial example generation framework, pioneering new research directions in visual model security.
+- Developed efficient adversarial attack algorithms that improved the attack success rate on COCO/VOC datasets.  
 
 ---
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
+### **人工智能本科生**  
+**2021年9月 – 2025年6月 | 安徽大学**  
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
+专注于计算机视觉对抗攻击与防御技术的研究，探索深度学习模型在对抗样本下的脆弱性及鲁棒性增强方法。研究涵盖对抗样本生成、模型鲁棒性评估及防御策略优化，致力于提升AI系统在安全关键场景中的可靠性。
 
 #### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+- 提出基于生成模型的新型对抗样本生成框架，为视觉模型安全性研究开辟新方向。  
+- 开发高效对抗攻击算法，提升了对抗样本在COCO/VOC数据集上的攻击成功率。  
+
